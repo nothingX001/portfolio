@@ -29,3 +29,9 @@ a:hover {
     text-decoration:none; 
     cursor:pointer;  
 }
+
+a:visited {
+    color:#301934; 
+    text-decoration:none; 
+    cursor:pointer; 
+}
